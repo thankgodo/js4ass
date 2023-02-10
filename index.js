@@ -41,11 +41,15 @@ alert(arr1)
 function writeNum(){
     for(let i = 1; arr.push(i); i++ ) {
         arr.push (i=i+1)
-        console.log(arr);
+        alert(arr);
        return
     }
 
 }
+writeNum();
+writeNum();
+writeNum();
+writeNum();
 writeNum();
 
 
